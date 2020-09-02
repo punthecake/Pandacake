@@ -88,7 +88,7 @@
             </div>
          </div>
         <div class="footer">
-            <h3 style="text-align: center"> Visit Github: <a href="https://github.com/Pandacake/css"> https://github.com/Pandacake/CSS </a></h1>
+            <h3 style="text-align: center"> Visit Github: <a href="https://github.com/punthecake/Pandacake"> https://github.com/punthecake/Pandacake </a></h1>
         </div>
         </div>
     </body>
